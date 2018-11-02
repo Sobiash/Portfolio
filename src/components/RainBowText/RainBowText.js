@@ -1,8 +1,7 @@
 import React from "react";
-// import RainBowText from "./RainBowText";
-import "./Home.css";
+import "./RainBowText.css";
 
-const home = props => {
+const rainBowText = props => {
   const name = props.name;
   const letters = name.map((letter, index) => {
     if (letter !== " ") {
@@ -14,4 +13,4 @@ const home = props => {
 
   return <span>{letters}</span>;
 };
-export default home;
+export default rainBowText;

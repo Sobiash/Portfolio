@@ -51,6 +51,7 @@ span:nth-child(15) {
 
 .name {
   padding-top: 21vh;
+  margin-left: 150px;
 }
 
 span {
@@ -76,8 +77,8 @@ span {
   /* } */
 }
 span:hover {
-  transform: translateY(50px);
-  animation-delay: ease 3s;
+  transform: translateY(50px) ease 3s;
+  pointer: cursor;
 }
 
 /* @media (max-width: 800px) {
