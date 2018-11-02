@@ -1,6 +1,6 @@
 import React from "react";
 // import RainBowText from "./RainBowText";
-import styles from "./Home.css";
+import "./Home.css";
 
 const home = props => {
   const name = props.name;
