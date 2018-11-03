@@ -18,7 +18,7 @@ const home = () => {
   ];
   return (
     <div className="name">
-      <RainBowText name={name} />
+      <RainBowText text={name} />
       <h2 class="intro">I really like writing code.</h2>
       <h2 class="intro">Especially in Python and JavaScript.</h2>
       <h2 class="intro">

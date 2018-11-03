@@ -14,10 +14,11 @@
 
 html,
 body,
-#app {
+.app {
   height: 98%;
   overflow-y: hidden;
   font-family: "Lato", sans-serif;
+  margin: 0 auto;
 }
 
 .content {

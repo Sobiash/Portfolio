@@ -2,8 +2,8 @@ import React from "react";
 import "./RainBowText.css";
 
 const rainBowText = props => {
-  const name = props.name;
-  const letters = name.map((letter, index) => {
+  const text = props.text;
+  const letters = text.map((letter, index) => {
     if (letter !== " ") {
       return <span key={index}> {letter}</span>;
     } else {

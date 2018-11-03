@@ -1,5 +1,5 @@
 span:nth-child(1) {
-  color: #ef5350;
+  color: #f27673;
 }
 span:nth-child(2) {
   color: #ab47bc;
@@ -54,10 +54,10 @@ span:nth-child(15) {
   margin-left: 150px;
 }
 
-span {
+.name span {
   font-weight: 800;
   letter-spacing: -25px;
-  mix-blend-mode: darken;
+  /* mix-blend-mode: darken; */
   line-height: 60%;
   opacity: 0.8;
   font-size: 250px;
@@ -76,9 +76,9 @@ span {
   } */
   /* } */
 }
-span:hover {
+.name span:hover {
   transform: translateY(50px) ease 3s;
-  pointer: cursor;
+  cursor: pointer;
 }
 
 /* @media (max-width: 800px) {
