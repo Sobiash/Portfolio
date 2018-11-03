@@ -1,9 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./containers/fontawesome";
 import "./index.css";
 import App from "./containers/App";
 import * as serviceWorker from "./serviceWorker";
+
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { fab } from "@fortawesome/free-brands-svg-icons";
+import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
+library.add(faEnvelope, fab);
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
