@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Sass Project",
+    "description": "In this project, I have made a sass project with the help of sass plugins and gulp task-runner. This project is purely based on sass.",
+    "code_link": "https://github.com/Sobiash/SASS-Project",
+    "deploy_link": "https://sobiash.github.io/SASS-Project/",
+    "tools": ["Sass", "Gulp"],
+    "icons": ["fab", "sass"]
+  },
+  {
+    "id": 2,
+    "name": "Book List",
+    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/JavaScript-bookListProject",
+    "deploy_link": "https://sobiash.github.io/JavaScript-bookListProject/",
+    "tools": ["Javascript"],
+    "icons": ["fab", "js-square"]
+  },
+  {
+    "id": 3,
+    "name": "Loan Calculator",
+    "description": "Lorem ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/JavaScript-LoanCalculator",
+    "deploy_link": "https://sobiash.github.io/JavaScript-LoanCalculator/",
+    "tools": ["Javascript"],
+    "icons": ["fab", "js-square"]
+  },
+  {
+    "id": 4,
+    "name": "To Do List",
+    "description": "Simple JavaScript application that allows a user to make a to-do list and keep it stored in local data storage.",
+    "code_link": "https://github.com/Sobiash/JavaScript-ToDoList",
+    "deploy_link": "https://sobiash.github.io/JavaScript-ToDoList/",
+    "tools": ["JavaScript"],
+    "icons": ["fab", "js-square"]
+  },
+  {
+    "id": 5,
+    "name": "Number Guessing Game",
+    "description": "Simple JavaScript application that allows a user to play the number guessing game.",
+    "code_link": "https://github.com/Sobiash/JavaScript-NumberGuesser",
+    "deploy_link": "https://sobiash.github.io/JavaScript-NumberGuesser/",
+    "tools": ["Javascript"],
+    "icons": ["fab", "js-square"]
+  },
+  {
+    "id": 6,
+    "name": "Tracalories",
+    "description": "Lorem ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/CalculateCaloriesApp",
+    "deploy_link": "https://sobiash.github.io/CalculateCaloriesApp/",
+    "tools": ["Javascript"],
+    "icons": ["fab", "js-square"]
+  },
+  {
+    "id": 7,
+    "name": "Election Map",
+    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
+    "deploy_link": "#",
+    "tools": ["React Js", "CSS"],
+    "icons": ["fab", "react"]
+  }
+]

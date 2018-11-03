@@ -1,0 +1,85 @@
+.card h5 {
+  font-size: 20px;
+  line-height: 150%;
+}
+
+a {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  line-height: 150%;
+}
+
+.description {
+  line-height: 25px;
+  font-size: 18px;
+}
+
+.card {
+  margin: 0.5rem 0.5rem 1rem 0.5rem;
+  padding: 0.5rem 1rem 1rem 1rem;
+  border-radius: 2px;
+  color: #ffffff;
+  text-align: center;
+  font-size: 1.3em;
+  font-family: "Lato", sans-serif;
+  transition: top 0.5s, left 0.5s;
+}
+
+.card:hover {
+  position: relative;
+  top: -5px;
+  left: -5px;
+  box-shadow: 5px 5px 5px #969696;
+}
+
+.icons {
+  margin-top: -30px;
+  margin-bottom: -10px;
+  font-size: 40px;
+}
+
+.card:nth-child(1) {
+  background-color: #ef5350;
+}
+.card:nth-child(2) {
+  background-color: #ab47bc;
+}
+
+.card:nth-child(3) {
+  background-color: #651fff;
+}
+
+.card:nth-child(4) {
+  background-color: #2196f3;
+}
+
+.card:nth-child(5) {
+  background-color: #00bcd4;
+}
+
+.card:nth-child(6) {
+  background-color: #ffc107;
+}
+.card:nth-child(7) {
+  background-color: #4caf50;
+}
+
+.card:nth-child(8) {
+  background-color: #3949ab;
+}
+
+.card:nth-child(9) {
+  background-color: #ff80ab;
+}
+
+.card:nth-child(10) {
+  background-color: #ff8f00;
+}

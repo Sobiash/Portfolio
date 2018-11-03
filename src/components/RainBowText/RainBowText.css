@@ -1,5 +1,5 @@
 span:nth-child(1) {
-  color: #f27673;
+  color: #ef5350;
 }
 span:nth-child(2) {
   color: #ab47bc;
@@ -59,7 +59,7 @@ span:nth-child(15) {
   letter-spacing: -25px;
   /* mix-blend-mode: darken; */
   line-height: 60%;
-  opacity: 0.8;
+  opacity: 0.95;
   font-size: 250px;
   text-transform: uppercase;
   font-family: Lato, sans-serif;
