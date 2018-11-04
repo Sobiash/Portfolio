@@ -1,5 +1,6 @@
 import React from "react";
 import RainBowText from "../RainBowText/RainBowText";
+import "./Home.scss";
 const home = () => {
   const name = [
     "S",

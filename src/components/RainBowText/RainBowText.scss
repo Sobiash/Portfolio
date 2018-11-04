@@ -1,0 +1,47 @@
+.letter:nth-child(10n + 1) {
+  color: #ef5350;
+}
+.letter:nth-child(10n + 2) {
+  color: #ab47bc;
+}
+
+.letter:nth-child(10n + 3) {
+  color: #651fff;
+}
+
+.letter:nth-child(10n + 4) {
+  color: #2196f3;
+}
+
+.letter:nth-child(10n + 5) {
+  color: #00bcd4;
+}
+
+.letter:nth-child(10n + 6) {
+  color: #ffc107;
+}
+.letter:nth-child(10n + 7) {
+  color: #4caf50;
+}
+
+.letter:nth-child(10n + 8) {
+  color: #3949ab;
+}
+
+.letter:nth-child(10n + 9) {
+  color: #ff80ab;
+}
+
+.letter:nth-child(10n + 10) {
+  color: #ff8f00;
+}
+
+.letter {
+  transition-duration: 2s;
+  display: inline-block;
+}
+
+.letter:hover {
+  cursor: pointer;
+  transform: translateY(60px);
+}

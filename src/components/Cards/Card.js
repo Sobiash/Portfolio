@@ -1,7 +1,7 @@
 import React from "react";
 import Projects from "./Projects.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import "./Card.css";
+import "./Card.scss";
 
 const card = () => {
   return (

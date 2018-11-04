@@ -1,0 +1,47 @@
+.name {
+  padding-top: 21vh;
+}
+
+.name .letter {
+  font-weight: 700;
+  letter-spacing: -33px;
+  mix-blend-mode: darken;
+  line-height: 60%;
+  opacity: 0.95;
+  font-size: 270px;
+  text-transform: uppercase;
+  font-family: Lato, sans-serif;
+
+  // @media (max-width: 650px) {
+  //   letter-spacing: -10px;
+  // }
+  // @media (max-width: 500px) {
+  //   font-size: 80px;
+  // }
+  // @media (max-width: 400px) {
+  //   font-size: 60px;
+  // }
+}
+
+// @keyframes hoveranimation {
+//   50% {
+//     transform: translateY(50px);
+//   }
+// }
+
+// @-webkit-keyframes hoveranimation {
+//   50% {
+//     transform: translateY(50px);
+//   }
+// }
+
+// @media (max-width: 800px) {
+//   font-size: 150px;
+// }
+
+// @media (max-width: 650px) {
+//   font-size: 100px;
+// }
+// @media (max-width: 370px) {
+//   font-size: 80px;
+// }
