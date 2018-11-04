@@ -9,9 +9,7 @@ const projects = () => {
     <div className="projects">
       <RainBowText text={projects} />
       <div className="cards">
-        <div className="container">
-          <Card />
-        </div>
+        <Card />
       </div>
     </div>
   );

@@ -5,7 +5,7 @@ import "./Card.css";
 
 const card = () => {
   return (
-    <div>
+    <div className="container">
       {Projects.map(details => {
         return (
           <div className="card" key={details.id}>

@@ -61,5 +61,23 @@
     "deploy_link": "#",
     "tools": ["React Js", "CSS"],
     "icons": ["fab", "react"]
+  },
+  {
+    "id": 8,
+    "name": "Election Map",
+    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
+    "deploy_link": "#",
+    "tools": ["React Js", "CSS"],
+    "icons": ["fab", "react"]
+  },
+  {
+    "id": 9,
+    "name": "Election Map",
+    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
+    "deploy_link": "#",
+    "tools": ["React Js", "CSS"],
+    "icons": ["fab", "react"]
   }
 ]
