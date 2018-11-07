@@ -20,11 +20,11 @@ const home = () => {
   return (
     <div className="name">
       <RainBowText text={name} />
-      <h2 class="intro">I really like writing code.</h2>
-      <h2 class="intro">Especially in Python and JavaScript.</h2>
-      <h2 class="intro">
+      <p className="intro">I really like writing code.</p>
+      <p className="intro">Especially in React and JavaScript.</p>
+      <p className="intro">
         <em>(click anywhere to interact)</em>
-      </h2>
+      </p>
     </div>
   );
 };

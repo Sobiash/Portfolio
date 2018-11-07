@@ -1,36 +1,56 @@
-.contact .letter {
-  font-size: 130px;
-  font-weight: 700;
-  letter-spacing: -15px;
-  mix-blend-mode: darken;
-  line-height: 60%;
-  opacity: 0.95;
-  text-transform: uppercase;
-  font-family: Lato, sans-serif;
+.contact {
+  @media (max-width: 900px) {
+    text-align: center;
+    .text-center {
+      display: inline-block;
+    }
+    @media (max-width: 650px) {
+      margin-top: 35px;
+      .text-center {
+        display: inline-block;
+      }
+    }
+  }
 
-  /* 
+  .letter {
+    font-size: 130px;
+    font-weight: 700;
+    letter-spacing: -15px;
+    mix-blend-mode: darken;
+    line-height: 60%;
+    opacity: 0.95;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+
+    @media (max-width: 900px) {
+      letter-spacing: -10px;
+      font-size: 110px;
+    }
+
     @media (max-width: 650px) {
       letter-spacing: -10px;
-    } */
-  /* @media (max-width: 500px) {
-    font-size: 80px;
+      font-size: 100px;
+    }
+    @media (max-width: 500px) {
+      letter-spacing: -8px;
+      font-size: 80px;
+    }
+    @media (max-width: 400px) {
+      font-size: 60px;
+    }
   }
-  @media (max-width: 400px) {
-    font-size: 60px;
-  } */
-  /* } */
-}
-
-.contact {
-  margin-top: 15vh;
 }
 
 .social-link {
   font-size: 100px;
 
-  /* @media (max-width: 700px) {
+  @media (max-width: 900px) {
+    font-size: 75px;
+  }
+
+  @media (max-width: 650px) {
     font-size: 50px;
-  } */
+  }
 }
 
 .social-link:hover {

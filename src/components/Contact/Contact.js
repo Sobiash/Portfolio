@@ -9,7 +9,7 @@ const contact = () => {
   return (
     <div>
       <div className="contact">
-        <RainBowText text={contact} />
+        <RainBowText text={contact} className="text-center" />
       </div>
       <SocialLinks />
     </div>

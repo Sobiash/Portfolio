@@ -9,12 +9,16 @@ const about = () => {
   const about = ["A", "B", "O", "U", "T"];
   return (
     <div className="about">
-      <RainBowText text={about} />
+      <div className="center">
+        {" "}
+        <RainBowText text={about} className="text-center" />
+      </div>
+
       <div className="bio">
-        <div>
+        <div className="bio__pic">
           <img src={img} alt="Sobia Shahbaz" />
         </div>
-        <div>
+        <div className="bio__desc">
           <p>
             I have the really cool job of teaching other people how to code at{" "}
           </p>

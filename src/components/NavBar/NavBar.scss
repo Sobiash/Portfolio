@@ -1,0 +1,38 @@
+.nav {
+  font-size: 1.2rem;
+  list-style: none;
+  margin-top: 4rem;
+  font-size: 1.6rem;
+  list-style: none;
+  margin-top: 3.5rem;
+  display: flex;
+  margin: 0;
+  float: right;
+
+  @media (max-width: 900px) {
+    float: none;
+  }
+
+  &__link {
+    text-decoration: none;
+    color: #4a4a4a;
+    display: block;
+    padding: 1.5rem 3rem;
+    position: relative;
+
+    @media (max-width: 900px) {
+      font-size: 1.2rem;
+      justify-content: center;
+      padding: 2rem;
+    }
+    @media (max-width: 600px) {
+      font-size: 1rem;
+      flex-direction: column;
+      padding: 1.5rem 0.5rem;
+    }
+  }
+
+  &__link:hover {
+    text-decoration: underline;
+  }
+}

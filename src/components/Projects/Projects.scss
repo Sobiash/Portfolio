@@ -1,12 +1,15 @@
 .projects {
-  margin-top: 15vh;
-  /* @media (max-width: 1050px) {
-      grid-template-columns: repeat(2, 1fr);
+  @media (max-width: 900px) {
+    text-align: center;
+    .text-center {
+      display: inline-block;
     }
-
     @media (max-width: 650px) {
-      grid-template-columns: repeat(1, 1fr);
-    } */
+      .text-center {
+        display: inline-block;
+      }
+    }
+  }
 }
 .projects .letter {
   font-size: 130px;
@@ -18,25 +21,18 @@
   text-transform: uppercase;
   font-family: Lato, sans-serif;
 
-  /* 
-    @media (max-width: 650px) {
-      letter-spacing: -10px;
-    } */
-  /* @media (max-width: 500px) {
+  @media (max-width: 900px) {
+    font-size: 110px;
+    letter-spacing: -10px;
+  }
+
+  @media (max-width: 650px) {
+    font-size: 100px;
+  }
+  @media (max-width: 500px) {
     font-size: 80px;
   }
   @media (max-width: 400px) {
     font-size: 60px;
-  } */
-  /* } */
-
-  // @media (max-width: 650px) {
-  //   letter-spacing: -10px;
-  // }
-  // @media (max-width: 500px) {
-  //   font-size: 80px;
-  // }
-  // @media (max-width: 400px) {
-  //   font-size: 60px;
-  // }
+  }
 }
