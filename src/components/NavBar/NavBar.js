@@ -10,7 +10,7 @@ const NavBar = () => {
           <NavLink
             to="/"
             exact
-            activeStyle={{ textDecoration: "underline" }}
+            activeStyle={{ borderBottom: "3px solid #4a4a4a" }}
             className="nav__link"
           >
             Home
@@ -20,7 +20,7 @@ const NavBar = () => {
           <NavLink
             to="/about"
             exact
-            activeStyle={{ textDecoration: "underline" }}
+            activeStyle={{ borderBottom: "3px solid #4a4a4a" }}
             className="nav__link"
           >
             About
@@ -30,7 +30,7 @@ const NavBar = () => {
           <NavLink
             to="/projects"
             exact
-            activeStyle={{ textDecoration: "underline" }}
+            activeStyle={{ borderBottom: "3px solid #4a4a4a" }}
             className="nav__link"
           >
             Projects
@@ -40,7 +40,7 @@ const NavBar = () => {
           <NavLink
             to="/contact"
             exact
-            activeStyle={{ textDecoration: "underline" }}
+            activeStyle={{ borderBottom: "3px solid #4a4a4a" }}
             className="nav__link"
           >
             Contact
