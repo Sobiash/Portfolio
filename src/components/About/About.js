@@ -1,9 +1,9 @@
 import React from "react";
 import RainBowText from "../RainBowText/RainBowText";
-import "./About.scss";
+import "../../styles/About/About.scss";
 import SocialLinks from "../Social Links/SocialLinks";
-import "../Social Links/SocialLinks.scss";
-import img from "./sobia.shahbaz.jpg";
+import "../../styles/Social Links/SocialLinks.scss";
+import img from "../../styles/Social Links/sobia.shahbaz.jpg";
 
 const about = () => {
   const about = ["A", "B", "O", "U", "T"];
