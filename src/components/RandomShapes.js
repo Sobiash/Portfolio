@@ -1,5 +1,5 @@
 import React from "react";
-import "./RandomShapes.scss";
+import "../styles/RandomShapes.scss";
 
 class RandomShapes extends React.Component {
   componentDidMount() {
@@ -37,21 +37,21 @@ class RandomShapes extends React.Component {
 
       let sideLength = randomNumber(maxSize);
       let shapeType = randomNumber(numShapes);
-      let radious = Math.floor(Math.random() * 70);
+      let radious = Math.floor(Math.random() * 70 + 2);
 
-      if (shapeType % numShapes == 0) {
+      if (shapeType % numShapes === 0) {
         context.beginPath();
         context.rect(mouseX, mouseY, sideLength, sideLength);
         context.fillStyle = randomChoice(color);
         context.fill();
-      } else if (shapeType % numShapes == 1) {
+      } else if (shapeType % numShapes === 1) {
         context.beginPath();
         context.moveTo(mouseX, mouseY);
         context.lineTo(mouseX + sideLength, mouseY);
         context.lineTo(mouseX + 0.5 * sideLength, mouseY - sideLength);
         context.fillStyle = randomChoice(color);
         context.fill();
-      } else if (shapeType % numShapes == 2) {
+      } else if (shapeType % numShapes === 2) {
         context.beginPath();
         context.arc(mouseX, mouseY, radious, 0, 2 * Math.PI, false);
         context.closePath();

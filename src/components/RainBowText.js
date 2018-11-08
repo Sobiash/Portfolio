@@ -1,5 +1,5 @@
 import React from "react";
-import "../../styles/RainBowText/RainBowText.scss";
+import "../styles/RainBowText.scss";
 
 const rainBowText = props => {
   const text = props.text;

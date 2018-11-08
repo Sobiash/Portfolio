@@ -1,7 +1,7 @@
 import React from "react";
-import RainBowText from "../RainBowText/RainBowText";
-import Card from "../Cards/Card";
-import "../../styles/Projects/Projects.scss";
+import RainBowText from "./RainBowText";
+import Card from "./Card";
+import "../styles/Projects.scss";
 
 const projects = () => {
   const projects = ["P", "R", "O", "J", "E", "C", "T", "S"];
