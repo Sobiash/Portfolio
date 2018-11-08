@@ -3,7 +3,7 @@ import RainBowText from "../RainBowText/RainBowText";
 import "../../styles/About/About.scss";
 import SocialLinks from "../Social Links/SocialLinks";
 import "../../styles/Social Links/SocialLinks.scss";
-import img from "../../styles/Social Links/sobia.shahbaz.jpg";
+import img from "../../styles/About/sobia.shahbaz.jpg";
 
 const about = () => {
   const about = ["A", "B", "O", "U", "T"];

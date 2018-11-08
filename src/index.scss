@@ -32,17 +32,6 @@ body {
 }
 
 .App {
-  margin-left: 100px;
-  margin-right: 100px;
   display: flex;
   flex-direction: column;
-  @media (max-width: 1050px) {
-    margin-left: 50px;
-    margin-right: 50px;
-  }
-
-  @media (max-width: 650px) {
-    margin-left: 30px;
-    margin-right: 30px;
-  }
 }

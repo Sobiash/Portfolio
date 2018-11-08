@@ -1,7 +1,16 @@
 .name {
   margin-top: 15vh;
+  margin-left: 100px;
+  margin-right: 100px;
   @media (max-width: 1050px) {
     margin-top: 10vh;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  @media (max-width: 1050px) {
+    margin-top: 10vh;
+    margin-left: 30px;
+    margin-right: 30px;
   }
 
   .intro {

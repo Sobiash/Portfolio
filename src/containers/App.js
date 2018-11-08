@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { BrowserRouter as Router, Switch } from "react-router-dom";
 import Route from "react-router-dom/Route";
+import RandomShapes from "../components/RandomShapes/RandomShapes";
 import Home from "../components/Home/Home";
 import Contact from "../components/Contact/Contact";
 import About from "../components/About/About";
@@ -12,7 +13,9 @@ class App extends Component {
     return (
       <Router>
         <div className="App">
+          <RandomShapes />
           <NavBar />
+
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/about" component={About} />
