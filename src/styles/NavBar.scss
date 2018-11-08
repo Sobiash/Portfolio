@@ -1,3 +1,9 @@
+.navbar {
+  margin-right: 100px;
+  @media (max-width: 900px) {
+    margin-left: 50px;
+  }
+}
 .nav {
   font-size: 1.2rem;
   list-style: none;

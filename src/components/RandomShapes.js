@@ -4,17 +4,18 @@ import "../styles/RandomShapes.scss";
 class RandomShapes extends React.Component {
   componentDidMount() {
     const canvas = this.refs.canvas;
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
     const context = canvas.getContext("2d");
-
     document.addEventListener("click", myFun, false);
 
     function myFun(e) {
       let color = [];
-      const mouseX = e.clientX - context.canvas.offsetLeft;
-      const mouseY = e.clientY - context.canvas.offsetTop;
+      let mouseX = e.clientX - context.canvas.offsetLeft;
+      let mouseY = e.clientY - context.canvas.offsetTop;
 
       const randomNumber = size => {
-        return Math.floor(Math.random() * size + 2);
+        return Math.floor(Math.random() * size + 1);
       };
 
       const randomChoice = () => {
@@ -27,7 +28,6 @@ class RandomShapes extends React.Component {
           "#ffdcaf",
           "#f097bb"
         ];
-
         let index = randomNumber(colors.length);
         return colors[index];
       };
@@ -37,8 +37,7 @@ class RandomShapes extends React.Component {
 
       let sideLength = randomNumber(maxSize);
       let shapeType = randomNumber(numShapes);
-      let radious = Math.floor(Math.random() * 70 + 2);
-
+      let radious = Math.floor(Math.random() * 70 + 1);
       if (shapeType % numShapes === 0) {
         context.beginPath();
         context.rect(mouseX, mouseY, sideLength, sideLength);
@@ -59,18 +58,20 @@ class RandomShapes extends React.Component {
         context.fill();
       }
     }
+
+    window.addEventListener("resize", init);
+
+    function init() {
+      canvas.width = window.innerWidth;
+      canvas.height = window.innerHeight;
+    }
   }
   render() {
     return (
       <div>
-        <canvas
-          ref="canvas"
-          width={window.innerWidth}
-          height={window.innerHeight}
-        />
+        <canvas ref="canvas" />
       </div>
     );
   }
 }
-
 export default RandomShapes;
