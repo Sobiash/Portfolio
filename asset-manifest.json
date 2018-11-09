@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio/static/css/main.6c4584b9.chunk.css",
-  "main.js": "/Portfolio/static/js/main.1646de20.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.1646de20.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.dca3be76.chunk.css",
+  "main.js": "/Portfolio/static/js/main.1c5ed4e0.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.1c5ed4e0.chunk.js.map",
   "static/css/1.916ffb18.chunk.css": "/Portfolio/static/css/1.916ffb18.chunk.css",
   "static/js/1.7e0cc11f.chunk.js": "/Portfolio/static/js/1.7e0cc11f.chunk.js",
   "static/js/1.7e0cc11f.chunk.js.map": "/Portfolio/static/js/1.7e0cc11f.chunk.js.map",
@@ -9,9 +9,9 @@
   "runtime~main.js.map": "/Portfolio/static/js/runtime~main.3b961160.js.map",
   "static/media/index.css": "/Portfolio/static/media/lato-latin-900italic.e792d6c6.woff",
   "static/media/sobia.shahbaz.jpg": "/Portfolio/static/media/sobia.shahbaz.0c383f7a.jpg",
-  "static/css/main.6c4584b9.chunk.css.map": "/Portfolio/static/css/main.6c4584b9.chunk.css.map",
+  "static/css/main.dca3be76.chunk.css.map": "/Portfolio/static/css/main.dca3be76.chunk.css.map",
   "static/css/1.916ffb18.chunk.css.map": "/Portfolio/static/css/1.916ffb18.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.be2b450a9f52501645c79345710c4116.js": "/Portfolio/precache-manifest.be2b450a9f52501645c79345710c4116.js",
+  "precache-manifest.b3e97ad783e7ec218d06f79362ea3ec0.js": "/Portfolio/precache-manifest.b3e97ad783e7ec218d06f79362ea3ec0.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
