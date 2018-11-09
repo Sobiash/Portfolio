@@ -28,19 +28,25 @@
   text-transform: uppercase;
   font-family: Lato, sans-serif;
 
-  @media (max-width: 900px) {
+  @media (max-width: 1200px) {
     letter-spacing: -10px;
     font-size: 90px;
   }
-  @media (max-width: 650px) {
+
+  @media (max-width: 900px) {
     letter-spacing: -10px;
     font-size: 85px;
   }
+
+  @media (max-width: 650px) {
+    letter-spacing: -10px;
+    font-size: 70px;
+  }
   @media (max-width: 500px) {
     letter-spacing: -8px;
-    font-size: 80px;
+    font-size: 60px;
   }
   @media (max-width: 400px) {
-    font-size: 60px;
+    font-size: 50px;
   }
 }

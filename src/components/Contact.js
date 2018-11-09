@@ -11,7 +11,7 @@ const contact = () => {
       <div className="contact">
         <RainBowText text={contact} className="text-center" />
       </div>
-      <SocialLinks />
+      <SocialLinks className="social-link" />
     </div>
   );
 };
