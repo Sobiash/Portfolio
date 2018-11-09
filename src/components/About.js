@@ -24,9 +24,9 @@ const about = () => {
               Master student of SouthEastern University of Norway in Msc
               Management Program.
             </b>{" "}
-            Master thesis project credentials are reinforced by experience
-            gained during internship with Blockchain Hotels's digital marketing
-            team.
+            Master thesis project about digital marketing credentials are
+            reinforced by experience gained during internship with Blockchain
+            Hotels's digital marketing team.
             <b>
               <br />
               Consistently commended by professors and internship supervisors

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Sass Project",
-    "description": "In this project, I have made a sass project with the help of sass plugins and gulp task-runner. This project is purely based on sass.",
+    "description": "In this project, I have made a sass project with the help of sass plugins and gulp task-runner. This project is made to show my sass skills and only is about frontend web design made with flexbox.",
     "code_link": "https://github.com/Sobiash/SASS-Project",
     "deploy_link": "https://sobiash.github.io/SASS-Project/",
     "tools": ["Sass", "Gulp"],
@@ -11,16 +11,16 @@
   {
     "id": 2,
     "name": "Book List",
-    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "description": "In this project, I have used Javascript and Bootstrap for making a book list which is stored in your local storage and can be save for next time. You can all delete books at once or edit your book list and keep a new list into storage.",
     "code_link": "https://github.com/Sobiash/JavaScript-bookListProject",
     "deploy_link": "https://sobiash.github.io/JavaScript-bookListProject/",
-    "tools": ["Javascript"],
+    "tools": ["Javascript", "BootStrap"],
     "icons": ["fab", "js-square"]
   },
   {
     "id": 3,
     "name": "Loan Calculator",
-    "description": "Lorem ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+    "description": "This project is made with Javascript and Bootstrap. With this project you can enter a loan value you wish to apply and give a time period for the loan you want and the %age as interest you wish to pay for that time period. then it will show you monthly payment and a total payment and total interest.",
     "code_link": "https://github.com/Sobiash/JavaScript-LoanCalculator",
     "deploy_link": "https://sobiash.github.io/JavaScript-LoanCalculator/",
     "tools": ["Javascript"],
@@ -55,24 +55,6 @@
   },
   {
     "id": 7,
-    "name": "Election Map",
-    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
-    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
-    "deploy_link": "#",
-    "tools": ["React Js", "CSS"],
-    "icons": ["fab", "react"]
-  },
-  {
-    "id": 8,
-    "name": "Election Map",
-    "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
-    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
-    "deploy_link": "#",
-    "tools": ["React Js", "CSS"],
-    "icons": ["fab", "react"]
-  },
-  {
-    "id": 9,
     "name": "Election Map",
     "description": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
     "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",

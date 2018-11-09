@@ -20,6 +20,9 @@ const home = () => {
   return (
     <div className="name">
       <RainBowText text={name} />
+      <p className="intro">
+        <b>Front End Developer</b>
+      </p>
       <p className="intro">I really like writing code.</p>
       <p className="intro">Especially in React and JavaScript.</p>
       <p className="intro">

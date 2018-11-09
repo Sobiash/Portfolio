@@ -15,7 +15,7 @@ class RandomShapes extends React.Component {
       let mouseY = e.clientY - context.canvas.offsetTop;
 
       const randomNumber = size => {
-        return Math.floor(Math.random() * size + 1);
+        return Math.floor(Math.random() * size);
       };
 
       const randomChoice = () => {
@@ -26,7 +26,8 @@ class RandomShapes extends React.Component {
           "#e5c5ea",
           "#fac9c8",
           "#ffdcaf",
-          "#f097bb"
+          "#f097bb",
+          "#ffd7e5"
         ];
         let index = randomNumber(colors.length);
         return colors[index];
