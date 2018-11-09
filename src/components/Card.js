@@ -13,15 +13,23 @@ const card = () => {
             <div>
               <FontAwesomeIcon icon={details.icons} className="icons" />
             </div>
-            <p>{details.tools.join(", ")}</p>
+            <p className="tools">{details.tools.join(", ")}</p>
             <ul>
               <li>
-                <a href={details.deploy_link} target="_blank">
+                <a
+                  href={details.deploy_link}
+                  target="_blank"
+                  className="deploy_link"
+                >
                   View Project
                 </a>
               </li>
               <li>
-                <a href={details.code_link} target="_blank">
+                <a
+                  href={details.code_link}
+                  target="_blank"
+                  className="code_link"
+                >
                   View Code
                 </a>
               </li>

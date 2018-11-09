@@ -11,6 +11,7 @@
     @media (max-width: 650px) {
       margin-left: 30px;
       margin-right: 30px;
+      margin-top: 15px;
       .text-center {
         display: inline-block;
       }
@@ -18,9 +19,9 @@
   }
 }
 .projects .letter {
-  font-size: 130px;
+  font-size: 100px;
   font-weight: 700;
-  letter-spacing: -16px;
+  letter-spacing: -10px;
   mix-blend-mode: darken;
   line-height: 60%;
   opacity: 0.95;
@@ -28,14 +29,15 @@
   font-family: Lato, sans-serif;
 
   @media (max-width: 900px) {
-    font-size: 110px;
     letter-spacing: -10px;
+    font-size: 90px;
   }
-
   @media (max-width: 650px) {
-    font-size: 100px;
+    letter-spacing: -10px;
+    font-size: 85px;
   }
   @media (max-width: 500px) {
+    letter-spacing: -8px;
     font-size: 80px;
   }
   @media (max-width: 400px) {

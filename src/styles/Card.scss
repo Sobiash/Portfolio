@@ -13,13 +13,12 @@ ul {
   margin: 0;
 }
 
-li {
-  line-height: 150%;
-}
-
 .description {
   line-height: 25px;
-  font-size: 18px;
+  font-size: 16px;
+  @media (max-width: 650px) {
+    font-size: 14px;
+  }
 }
 
 .container {
@@ -28,6 +27,9 @@ li {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+  @media (max-width: 650px) {
+    margin-top: 20px;
+  }
 }
 
 .card {
@@ -39,22 +41,36 @@ li {
   font-size: 1.3em;
   font-family: "Lato", sans-serif;
   transition: top 0.5s, left 0.5s;
-  width: 28%;
+  width: 31%;
   display: block;
 
-  @media (max-width: 1300px) {
-    width: 40%;
-  }
+  // @media (max-width: 1300px) {
+  //   width: 33%;
+  // }
 
   @media (max-width: 1100px) {
     width: 45%;
   }
-  @media (max-width: 900px) {
-    width: 75%;
-  }
+  // @media (max-width: 900px) {
+  //   width: 80%;
+  // }
 
   @media (max-width: 650px) {
-    width: 90%;
+    width: 80%;
+  }
+
+  .tools {
+    font-size: 15px;
+    line-height: 150%;
+    @media (max-width: 900px) {
+      font-size: 14px;
+    }
+  }
+
+  .deploy_link,
+  .code_link {
+    font-size: 14px;
+    line-height: 50%;
   }
 }
 
