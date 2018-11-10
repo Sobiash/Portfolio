@@ -51,64 +51,65 @@
       font-size: 50px;
     }
   }
-}
-.bio {
-  margin-top: 25px;
-  &__desc {
-    margin-top: -20px;
-    padding-top: 0;
-    display: flex;
-    flex-direction: column;
-    padding-top: 15px;
-    font-size: 1rem;
-    flex-wrap: wrap;
-    @media (max-width: 700px) {
-      float: none;
-    }
-  }
-  &__pic {
-    display: flex;
-    float: left;
-    align-items: center;
-    -ms-flex-item-align: center;
-    @media (max-width: 900px) {
+  .bio {
+    margin-top: 25px;
+    &__desc {
+      color: #000000;
+      margin-top: -20px;
+      padding-top: 0;
+      display: flex;
       flex-direction: column;
-      float: none;
+      padding-top: 15px;
+      font-size: 1rem;
+      flex-wrap: wrap;
+      @media (max-width: 700px) {
+        float: none;
+      }
+    }
+    &__pic {
+      display: flex;
+      float: left;
+      align-items: center;
+      -ms-flex-item-align: center;
+      @media (max-width: 900px) {
+        flex-direction: column;
+        float: none;
+      }
+    }
+
+    img {
+      margin-right: 40px;
+      margin-top: 20px;
+      width: 250px;
+      height: 250px;
+      border-radius: 50%;
+      margin-bottom: 20px;
+      border: 15px solid #00bcd4;
+
+      @media (max-width: 900px) {
+        margin-top: 0px;
+        margin-right: 0px;
+        float: center;
+      }
+    }
+
+    img:hover {
+      transform: rotate(360deg);
+      transition-duration: 3s;
     }
   }
-
-  img {
-    margin-right: 40px;
-    margin-top: 20px;
-    width: 250px;
-    height: 250px;
-    border-radius: 50%;
-    margin-bottom: 20px;
-    border: 15px solid #00bcd4;
-
+  .links {
+    margin-top: 50px;
     @media (max-width: 900px) {
-      margin-top: 0px;
-      margin-right: 0px;
-      float: center;
+      margin-top: 0;
+      margin-bottom: 10px;
     }
   }
-
-  img:hover {
-    transform: rotate(360deg);
-    transition-duration: 3s;
+  .social-link {
+    font-size: 40px;
   }
-}
-.links {
-  margin-top: 50px;
-  @media (max-width: 900px) {
-    margin-top: 0;
-    margin-bottom: 10px;
-  }
-}
-.social-link {
-  font-size: 40px;
-}
 
-.social-link:hover {
-  opacity: 0.5;
+  .social-link:hover {
+    opacity: 0.5;
+  }
 }

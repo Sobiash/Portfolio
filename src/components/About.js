@@ -24,7 +24,7 @@ const about = () => {
               Master student of SouthEastern University of Norway in Msc
               Management Program.
             </b>{" "}
-            Master thesis project about digital marketing credentials are
+            Master thesis project in digital marketing, credentials are
             reinforced by experience gained during internship with Blockchain
             Hotels's digital marketing team.
             <b>
@@ -37,16 +37,16 @@ const about = () => {
           </p>
           <p>Technology Summary</p>
           <p>
-            <b>Programming/Languages: </b> JavaScript, React Js; CSS3, Sass;
-            HTML5; BootStrap; WordPress; Git, GitHub;
+            <b>Programming Languages Skills: </b> JavaScript, React Js; CSS3,
+            Sass; HTML5; BootStrap; WordPress; Git, GitHub;
             <br />
-            <b>Skills With: </b> Responsive Design, Mobile First UX, ES6, ES7,
+            <b>Other Skills: </b> Responsive Design, Mobile First UX, ES6, ES7,
             Babel.js, NPM, Webpack, Gulp.js
             <br />
             <b>Systems: </b> Mac OS X, Windows Server 2016
             <br />
-            <b>Digital Marketing: </b> SEO, Google Ads, FaceBook Ads, Twitter
-            Ads, Instagram Ads, Youtube, Blog, Research;
+            <b>Digital Marketing Knowledge: </b> SEO, Google Ads, FaceBook Ads,
+            Twitter Ads, Instagram Ads, Youtube, Blog, Research;
           </p>
           <p>Internship</p>
           <p>

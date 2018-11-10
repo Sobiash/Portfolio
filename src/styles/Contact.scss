@@ -9,20 +9,17 @@
     .text-center {
       display: inline-block;
     }
-    @media (max-width: 650px) {
-      margin-top: 15px;
-      margin-left: 30px;
-      margin-right: 30px;
-      .text-center {
-        display: inline-block;
-      }
+  }
+  @media (max-width: 650px) {
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    .text-center {
+      display: inline-block;
     }
   }
 
   .social-link {
-    font-size: 150px;
-    margin-top: 250px;
-
     @media (max-width: 900px) {
       font-size: 75px;
     }
