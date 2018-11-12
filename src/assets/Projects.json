@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "Fish Shop",
-    "description": "This is a stateful React Js app to buy different kinds of fishes whereas different users can edit or delete fish in their order and if someone can have access to dashboard, he can change the state of fishes on the basis of fresh fishes or sold out.",
-    "code_link": "https://github.com/Sobiash/Shop-Fish-React-App",
+    "description": "IN PROGRESS, This is a stateful React Js app to buy different kinds of fishes whereas different users can edit or delete fish in their order and if someone can have access to dashboard, he can change the state of fishes on the basis of fresh fishes or sold out.",
+    "code_link": "https://github.com/Sobiash/Shop-Fish",
     "deploy_link": "#",
     "tools": ["React Js", "Firebase"],
     "icons": ["fab", "react"]

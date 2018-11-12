@@ -4,7 +4,11 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const socialLinks = () => {
   return (
     <div className="links">
-      <a href="#" className="social-link" title="Twitter">
+      <a
+        href="https://twitter.com/sobia_shahbaz"
+        className="social-link"
+        title="Twitter"
+      >
         <FontAwesomeIcon icon={["fab", "twitter"]} className="blue" />
       </a>
       <a
@@ -28,7 +32,11 @@ const socialLinks = () => {
       >
         <FontAwesomeIcon icon="envelope" className="red" />
       </a>
-      <a href="#" className="social-link" title="Instagram">
+      <a
+        href="https://www.instagram.com/sobia.shahbaz/"
+        className="social-link"
+        title="Instagram"
+      >
         <FontAwesomeIcon icon={["fab", "instagram"]} className="purple" />
       </a>
     </div>

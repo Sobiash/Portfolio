@@ -8,7 +8,7 @@ const NavBar = () => {
       <ul className="nav">
         <li>
           <NavLink
-            to="/Portfolio"
+            to="/"
             exact
             activeStyle={{ borderBottom: "3px solid #4a4a4a" }}
             className="nav__link"
