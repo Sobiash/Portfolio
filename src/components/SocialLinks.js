@@ -8,6 +8,7 @@ const socialLinks = () => {
         href="https://twitter.com/sobia_shahbaz"
         className="social-link"
         title="Twitter"
+        target="_blank"
       >
         <FontAwesomeIcon icon={["fab", "twitter"]} className="blue" />
       </a>
@@ -15,6 +16,7 @@ const socialLinks = () => {
         href="https://github.com/Sobiash"
         className="social-link"
         title="Github"
+        target="_blank"
       >
         <FontAwesomeIcon icon={["fab", "github"]} className="black" />
       </a>
@@ -22,6 +24,7 @@ const socialLinks = () => {
         href="https://www.linkedin.com/in/sobia-shahbaz"
         className="social-link"
         title="Linkedin"
+        target="_blank"
       >
         <FontAwesomeIcon icon={["fab", "linkedin"]} className="dark-blue" />
       </a>
@@ -29,6 +32,7 @@ const socialLinks = () => {
         href="mailto:sobiashahbaz66@yahoo.com"
         className="social-link"
         title="email me"
+        target="_blank"
       >
         <FontAwesomeIcon icon="envelope" className="red" />
       </a>
@@ -36,6 +40,7 @@ const socialLinks = () => {
         href="https://www.instagram.com/sobia.shahbaz/"
         className="social-link"
         title="Instagram"
+        target="_blank"
       >
         <FontAwesomeIcon icon={["fab", "instagram"]} className="purple" />
       </a>
