@@ -30,7 +30,7 @@ const card = () => {
                   target="_blank"
                   className="code_link"
                 >
-                  View Code
+                  {details.code_link ? "View Code" : null}
                 </a>
               </li>
             </ul>

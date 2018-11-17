@@ -41,7 +41,7 @@ const about = () => {
             Sass; HTML5; BootStrap; WordPress; Git, GitHub;
             <br />
             <b>Other Skills: </b> Responsive Design, Mobile First UX, ES6, ES7,
-            Babel.js, NPM, Webpack, Gulp.js
+            Babel.js, NPM, Webpack, Gulp.js, Firebase.
             <br />
             <b>Systems: </b> Mac OS X, Windows Server 2016
             <br />
