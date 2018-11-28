@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 import "../styles/RainBowText.scss";
 
 const rainBowText = props => {
@@ -18,4 +19,9 @@ const rainBowText = props => {
 
   return <div>{letters}</div>;
 };
+
+rainBowText.propTypes = {
+  text: PropTypes.array
+};
+
 export default rainBowText;

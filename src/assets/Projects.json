@@ -10,6 +10,24 @@
   },
   {
     "id": 2,
+    "name": "Movies App",
+    "description": "IN PROGRESS, Adding Redux to the app at this moment. This is a stateful React app where users can find any movie of their choice and get information about that movie. The data is taken from an API which reflects IMDB movie data. This app can be enhanced as a cinema website where people can buy their tickets for the movies.",
+    "code_link": "https://github.com/Sobiash/Movies_App",
+    "deploy_link": "https://sobiash.github.io/Movies_App/",
+    "tools": ["React Js", "Firebase"],
+    "icons": ["fab", "react"]
+  },
+  {
+    "id": 3,
+    "name": "Cooking Recipes",
+    "description": "This project is made with React Js app. A user can find recipes of differnet food items and his search list can be saved in local storage.",
+    "code_link": "https://github.com/Sobiash/cooking-recipe-app",
+    "deploy_link": " https://sobiash.github.io/cooking-recipe-app/",
+    "tools": ["React Js, Local Storage"],
+    "icons": ["fab", "react"]
+  },
+  {
+    "id": 4,
     "name": "Tracalories",
     "description": "This project is purely made with Javascript in Es6. A user can make a calories list by adding foods and required calories, this list can be saved in local storage to edit or delete anytime.",
     "code_link": "https://github.com/Sobiash/CalculateCaloriesApp",
@@ -18,7 +36,7 @@
     "icons": ["fab", "js-square"]
   },
   {
-    "id": 3,
+    "id": 5,
     "name": "InfoFactory",
     "description": "This is my blog made with Wordpress. I have tried to show different categories of information in separate parts of the blog.  I also have worked with present digital marketing practices like SEO.",
     "deploy_link": "http://infofactory.pk/",
@@ -27,7 +45,7 @@
   },
 
   {
-    "id": 4,
+    "id": 6,
     "name": "Book List",
     "description": "In this project, I have used Javascript and Bootstrap for making a book list which is stored in your local storage and can be save for next time. You can all delete books at once or edit your book list and keep a new list into storage.",
     "code_link": "https://github.com/Sobiash/JavaScript-bookListProject",
@@ -36,7 +54,7 @@
     "icons": ["fab", "js-square"]
   },
   {
-    "id": 5,
+    "id": 7,
     "name": "Loan Calculator",
     "description": "This project is made with Javascript and Bootstrap. With this project you can enter a loan value you wish to apply and give a time period for the loan you want and the %age as interest you wish to pay for that time period. then it will show you monthly payment and a total payment and total interest.",
     "code_link": "https://github.com/Sobiash/JavaScript-LoanCalculator",
@@ -45,7 +63,7 @@
     "icons": ["fab", "js-square"]
   },
   {
-    "id": 6,
+    "id": 8,
     "name": "To Do List",
     "description": "Simple JavaScript application that allows a user to make a to-do list and keep it stored in local data storage.",
     "code_link": "https://github.com/Sobiash/JavaScript-ToDoList",
@@ -54,7 +72,7 @@
     "icons": ["fab", "js-square"]
   },
   {
-    "id": 7,
+    "id": 9,
     "name": "Number Guessing Game",
     "description": "Simple JavaScript application that allows a user to play the number guessing game.",
     "code_link": "https://github.com/Sobiash/JavaScript-NumberGuesser",
@@ -63,9 +81,9 @@
     "icons": ["fab", "js-square"]
   },
   {
-    "id": 8,
+    "id": 10,
     "name": "Sass Project",
-    "description": "In this project, I have made a sass project with the help of sass plugins and gulp task-runner. This project is made to show my sass skills and only is about frontend web design made with flexbox.",
+    "description": "In this project, I have made a sass project with the help of sass plugins and gulp task-runner. This project is made to show my sass skills and only is about frontend web design made with flexbox and BEM.",
     "code_link": "https://github.com/Sobiash/SASS-Project",
     "deploy_link": "https://sobiash.github.io/SASS-Project/",
     "tools": ["Sass", "Gulp"],
