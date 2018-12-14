@@ -37,11 +37,12 @@ const about = () => {
           </p>
           <p>Technology Summary</p>
           <p>
-            <b>Programming Languages Skills: </b> JavaScript, React Js; CSS3,
-            Sass; HTML5; BootStrap; WordPress; Git, GitHub;
+            <b>Programming Languages Skills: </b> JavaScript, React Js, Redux,
+            Test Driven Development; CSS3, Sass; HTML5; BootStrap; WordPress;
+            Git, GitHub;
             <br />
             <b>Other Skills: </b> Responsive Design, Mobile First UX, ES6, ES7,
-            Babel.js, NPM, Webpack, Gulp.js, Firebase.
+            Babel.js, NPM, Webpack, Enzyme, Jest, Gulp.js, Firebase.
             <br />
             <b>Systems: </b> Mac OS X, Windows Server 2016
             <br />
@@ -49,6 +50,13 @@ const about = () => {
             Twitter Ads, Instagram Ads, Youtube, Blog, Research;
           </p>
           <p>Internship</p>
+          <p>
+            <b>Mangadou, Warsaw, Poland</b> <br />
+            React JS Frontend Developer, 2018
+            <br /> Accomplishments: Working on the React website of Mangadou.jp
+            in Warsaw, Poland. Website is being developed with test driven react
+            development. <br />
+          </p>
           <p>
             <b>Blockchain Hotels, Warsaw, Poland</b> <br />
             Digital Marketing Intern, 2018
