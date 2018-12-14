@@ -15,7 +15,7 @@ class App extends Component {
           <RandomShapes />
           <NavBar />
           <Switch>
-            <Route path="/Portfolio" exact component={Home} />
+            <Route path="/" exact component={Home} />
             <Route path="/about" component={About} />
             <Route path="/projects" component={Projects} />
             <Route path="/contact" component={Contact} />
