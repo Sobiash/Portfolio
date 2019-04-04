@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-400italic.b45e52f3.woff2"
   },
   {
-    "revision": "00d6baae651e10ffefc5",
+    "revision": "806110e492d41162edb6",
     "url": "/Portfolio/static/css/main.f3f2dde2.chunk.css"
   },
   {
@@ -24,10 +24,6 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/sobia.shahbaz.0c383f7a.jpg"
   },
   {
-    "revision": "ef884f11c6adb5df51c446911612e7af",
-    "url": "/Portfolio/static/media/lato-latin-100italic.ef884f11.woff2"
-  },
-  {
     "revision": "6ea8380326f67e10380953b188d96a2b",
     "url": "/Portfolio/static/media/lato-latin-100italic.6ea83803.woff"
   },
@@ -36,24 +32,28 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-100.f8028e61.woff2"
   },
   {
-    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
-    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
-  },
-  {
-    "revision": "bbbd26aeee9c5b967e35933bce02d358",
-    "url": "/Portfolio/static/media/lato-latin-300.bbbd26ae.woff2"
+    "revision": "ef884f11c6adb5df51c446911612e7af",
+    "url": "/Portfolio/static/media/lato-latin-100italic.ef884f11.woff2"
   },
   {
     "revision": "7d718d7299ab7f9fab17d7d4f13ded57",
     "url": "/Portfolio/static/media/lato-latin-300italic.7d718d72.woff2"
   },
   {
+    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
+    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
+  },
+  {
     "revision": "f1a4a058fbba1e35a406188ae7eddaf8",
     "url": "/Portfolio/static/media/lato-latin-400.f1a4a058.woff2"
   },
   {
-    "revision": "00d6baae651e10ffefc5",
-    "url": "/Portfolio/static/js/main.00d6baae.chunk.js"
+    "revision": "bbbd26aeee9c5b967e35933bce02d358",
+    "url": "/Portfolio/static/media/lato-latin-300.bbbd26ae.woff2"
+  },
+  {
+    "revision": "806110e492d41162edb6",
+    "url": "/Portfolio/static/js/main.806110e4.chunk.js"
   },
   {
     "revision": "7fbbfd1610770d594aef639cfefdd0b0",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/css/1.ed2b2471.chunk.css"
   },
   {
-    "revision": "18dc3d540b704c9f5ba88045b4e9ee0c",
+    "revision": "c18967b91b0985f3d1527efec7a419ff",
     "url": "/Portfolio/index.html"
   }
 ];
