@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "b45e52f342dc29c8553f51a99f924871",
-    "url": "/Portfolio/static/media/lato-latin-400italic.b45e52f3.woff2"
+    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
+    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
   },
   {
-    "revision": "31ab7c747c43cb320650",
+    "revision": "372334b2338f28477bab",
     "url": "/Portfolio/static/css/main.f3f2dde2.chunk.css"
   },
   {
@@ -28,10 +28,6 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-100.f8028e61.woff2"
   },
   {
-    "revision": "6ea8380326f67e10380953b188d96a2b",
-    "url": "/Portfolio/static/media/lato-latin-100italic.6ea83803.woff"
-  },
-  {
     "revision": "ef884f11c6adb5df51c446911612e7af",
     "url": "/Portfolio/static/media/lato-latin-100italic.ef884f11.woff2"
   },
@@ -44,16 +40,20 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-300italic.7d718d72.woff2"
   },
   {
+    "revision": "6ea8380326f67e10380953b188d96a2b",
+    "url": "/Portfolio/static/media/lato-latin-100italic.6ea83803.woff"
+  },
+  {
     "revision": "f1a4a058fbba1e35a406188ae7eddaf8",
     "url": "/Portfolio/static/media/lato-latin-400.f1a4a058.woff2"
   },
   {
-    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
-    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
+    "revision": "b45e52f342dc29c8553f51a99f924871",
+    "url": "/Portfolio/static/media/lato-latin-400italic.b45e52f3.woff2"
   },
   {
-    "revision": "31ab7c747c43cb320650",
-    "url": "/Portfolio/static/js/main.31ab7c74.chunk.js"
+    "revision": "372334b2338f28477bab",
+    "url": "/Portfolio/static/js/main.372334b2.chunk.js"
   },
   {
     "revision": "7fbbfd1610770d594aef639cfefdd0b0",
@@ -72,14 +72,6 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-900italic.fd67cf72.woff2"
   },
   {
-    "revision": "752c20224144760a496fb9e19a62f616",
-    "url": "/Portfolio/static/media/lato-latin-100.752c2022.woff"
-  },
-  {
-    "revision": "62fb51e9e645f63599238881b9de15dd",
-    "url": "/Portfolio/static/media/lato-latin-400.62fb51e9.woff"
-  },
-  {
     "revision": "ba2452bdc790a4fee05202eac3c092b3",
     "url": "/Portfolio/static/media/lato-latin-300.ba2452bd.woff"
   },
@@ -88,23 +80,31 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-400italic.c4082958.woff"
   },
   {
-    "revision": "96759e32fdc800c78b527a3e53fe2be6",
-    "url": "/Portfolio/static/media/lato-latin-700.96759e32.woff"
+    "revision": "62fb51e9e645f63599238881b9de15dd",
+    "url": "/Portfolio/static/media/lato-latin-400.62fb51e9.woff"
   },
   {
-    "revision": "d79dd0661ba130ec7a7e7c060fcb7e09",
-    "url": "/Portfolio/static/media/lato-latin-900.d79dd066.woff"
+    "revision": "96759e32fdc800c78b527a3e53fe2be6",
+    "url": "/Portfolio/static/media/lato-latin-700.96759e32.woff"
   },
   {
     "revision": "0a06ba1bdf385495f2679324cfbedd13",
     "url": "/Portfolio/static/media/lato-latin-700italic.0a06ba1b.woff"
   },
   {
+    "revision": "752c20224144760a496fb9e19a62f616",
+    "url": "/Portfolio/static/media/lato-latin-100.752c2022.woff"
+  },
+  {
+    "revision": "d79dd0661ba130ec7a7e7c060fcb7e09",
+    "url": "/Portfolio/static/media/lato-latin-900.d79dd066.woff"
+  },
+  {
     "revision": "1c00f1c56d8530931b2b",
     "url": "/Portfolio/static/css/1.ed2b2471.chunk.css"
   },
   {
-    "revision": "e2860da911267c9c359edbd314710df2",
+    "revision": "8ef3c23771a247cd755b3404a5bec431",
     "url": "/Portfolio/index.html"
   }
 ];
