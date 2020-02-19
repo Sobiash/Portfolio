@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-400italic.b45e52f3.woff2"
   },
   {
-    "revision": "dc06171e2ffa95a8d073",
+    "revision": "41a4b094b659e3fe7cf4",
     "url": "/Portfolio/static/css/main.f3f2dde2.chunk.css"
   },
   {
@@ -36,24 +36,24 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-100italic.ef884f11.woff2"
   },
   {
-    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
-    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
-  },
-  {
-    "revision": "bbbd26aeee9c5b967e35933bce02d358",
-    "url": "/Portfolio/static/media/lato-latin-300.bbbd26ae.woff2"
+    "revision": "f1a4a058fbba1e35a406188ae7eddaf8",
+    "url": "/Portfolio/static/media/lato-latin-400.f1a4a058.woff2"
   },
   {
     "revision": "7d718d7299ab7f9fab17d7d4f13ded57",
     "url": "/Portfolio/static/media/lato-latin-300italic.7d718d72.woff2"
   },
   {
-    "revision": "f1a4a058fbba1e35a406188ae7eddaf8",
-    "url": "/Portfolio/static/media/lato-latin-400.f1a4a058.woff2"
+    "revision": "bbbd26aeee9c5b967e35933bce02d358",
+    "url": "/Portfolio/static/media/lato-latin-300.bbbd26ae.woff2"
   },
   {
-    "revision": "dc06171e2ffa95a8d073",
-    "url": "/Portfolio/static/js/main.dc06171e.chunk.js"
+    "revision": "06eb177ee6c1960bcd79f1cf8c812000",
+    "url": "/Portfolio/static/media/lato-latin-300italic.06eb177e.woff"
+  },
+  {
+    "revision": "41a4b094b659e3fe7cf4",
+    "url": "/Portfolio/static/js/main.41a4b094.chunk.js"
   },
   {
     "revision": "7fbbfd1610770d594aef639cfefdd0b0",
@@ -84,12 +84,12 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/media/lato-latin-400.62fb51e9.woff"
   },
   {
-    "revision": "96759e32fdc800c78b527a3e53fe2be6",
-    "url": "/Portfolio/static/media/lato-latin-700.96759e32.woff"
-  },
-  {
     "revision": "c4082958a18f04bd32a3d3e1f5e390a5",
     "url": "/Portfolio/static/media/lato-latin-400italic.c4082958.woff"
+  },
+  {
+    "revision": "96759e32fdc800c78b527a3e53fe2be6",
+    "url": "/Portfolio/static/media/lato-latin-700.96759e32.woff"
   },
   {
     "revision": "0a06ba1bdf385495f2679324cfbedd13",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/Portfolio/static/css/1.ed2b2471.chunk.css"
   },
   {
-    "revision": "4388127b88eb1885d9744cba09353f44",
+    "revision": "d56d2255513cde1a529997c78715dbb3",
     "url": "/Portfolio/index.html"
   }
 ];
